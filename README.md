@@ -17,7 +17,7 @@ Supported Features:
 
 Authors:
 ---------
-* Sidd Arora (http://github.com/siddarora/)
+* Sidd Arora (http://github.com/sarora/)
 * Siva Manoharan (http://github.com/smanoharan/)
 * Adrian Shaw (http://github.com/ashawnz/)
 * Martin Poot (http://nz.linkedin.com/in/martinpoot42)
